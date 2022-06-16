@@ -8,5 +8,5 @@ At this place, possible solutions will be collected, linked to specific github-i
 
 ### Schema.org/Dataset
 
-
+* [Option 1: using a linked schema.Event via schema:recordedAt](../../issues/1)
 ### DCAT
